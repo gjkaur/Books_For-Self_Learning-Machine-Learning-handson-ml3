@@ -17,7 +17,7 @@
 
 - **Spam Filter Example**: 
   - Traditional Approach: Requires manual rule creation and maintenance.
-  - ML Approach: Automatically learns patterns, adapts to new spam strategies, and simplifies code maintenance【6:1†source】【6:4†source】【6:5†source】.
+  - ML Approach: Automatically learns patterns, adapts to new spam strategies, and simplifies code maintenance.
 
 #### Examples of Applications
 - Spam detection
